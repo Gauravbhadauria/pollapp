@@ -10,3 +10,10 @@ const App = () => {
 }
 
 export default App
+
+
+// git status 
+// git add .
+// git status 
+// git commit -m "cart changes"
+// git push 
